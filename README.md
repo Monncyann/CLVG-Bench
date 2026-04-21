@@ -5,6 +5,8 @@
 > Note: Code and dataset will be available soon.
 > 
 
+<img width="1000" height="900" alt="image" src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/CLVG-Bench_v5.png" />
+
 ## 💡 About
 
 Despite remarkable progress toward general-purpose video models, a critical question remains unanswered: how far are these models from achieving true multimodal reasoning? Existing benchmarks fail to address this question rigorously, as they remain constrained by straightforward task designs and fragmented evaluation metrics that neglect complex multimodal reasoning.
