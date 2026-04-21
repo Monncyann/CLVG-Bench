@@ -1,9 +1,8 @@
-# How Far Are Video Models from True Multimodal Reasoning?
-> 
+# <img src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/logo.png" width="160" align="left"> How Far Are Video Models from True Multimodal Reasoning?
+
 > **Official repository for the paper: "How Far Are Video Models from True Multimodal Reasoning?"**.
-> 
+>
 > Note: Code and dataset will be available soon.
-> 
 
 <img width="1000" height="900" alt="image" src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/CLVG-Bench_v5.png" />
 
