@@ -1,14 +1,18 @@
-# <img src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/logo.png" width="160" align="left"> How Far Are Video Models from True Multimodal Reasoning?
+# <img src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/logo.png" width="140" align="left"> How Far Are Video Models from True Multimodal Reasoning?
 
 > **Official repository for the paper: "How Far Are Video Models from True Multimodal Reasoning?"**.
 >
 > Note: Code and dataset will be available soon.
 
-<img width="1000" height="900" alt="image" src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/CLVG-Bench_v5.png" />
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.19193" target="_blank"><img src="https://img.shields.io/badge/arXiv-2604.19193-red"></a>
+</p>
 
 ## 💡 About
 
 Despite remarkable progress toward general-purpose video models, a critical question remains unanswered: how far are these models from achieving true multimodal reasoning? Existing benchmarks fail to address this question rigorously, as they remain constrained by straightforward task designs and fragmented evaluation metrics that neglect complex multimodal reasoning.
+
+<img width="1000" height="900" alt="image" src="https://github.com/Monncyann/CLVG-Bench/blob/main/figs/CLVG-Bench_v5.png" />
 
 ## 🚀 Key Contributions
 
