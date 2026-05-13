@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2604.19193" target="_blank"><img src="https://img.shields.io/badge/arXiv-2604.19193-red"></a>
+  <a href="https://huggingface.co/datasets/Moncyan/CLVG-Bench" target="_blank"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow"></a>
 </p>
 
 ## 💡 About
